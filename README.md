@@ -53,6 +53,9 @@ untarring A2.tar should produce your A2 directory).
 4. If the assignment instructions are not clear, use office hours and simply talk to me/ask for clarification!
 5. I use automated plagiarism detection tools. It includes huge database of codes from the Internet and past courses I offered. In other words, if you decid
 to cheat I will catch you. You will get F and fail the course (see syllabus for details (../UB-IntroPDP-Syllabus.pdf)). This is not because I am mean or do no like you. This is because I value and protect hard working students who do not cheat.
+
+
+
 © 2017 Jaroslaw Zola
 
  
