@@ -19,14 +19,14 @@ In the following, a connected component will be called as "cluster".
 
 The algorithm tries to implement the "The Two-Phase Algorithm" proposed in the paper [Connected Components in MapReduce and Beyond](http://dl.acm.org/citation.cfm?id=2670997). Below is the pseudo-code of the algorithm.
 
-              1: **Input:** Edges (u, v) as a set of key-value pairs <u; v>.
-              2: **Input:** A unique label lv for every node v ∈ V .
-              3: **repeat**
-              4:    **repeat**
+              1: Input: Edges (u, v) as a set of key-value pairs <u; v>.
+              2: Input: A unique label lv for every node v ∈ V .
+              3: repeat
+              4:    repeat
               5:        Large-Star
-              6:    **until** Convergence
+              6:    until Convergence
               7:    Small-Star
-              8: **until** Convergence
+              8: until Convergence
 
 
 The application takes one input command line argument: the name of a file or directory containing the graph to analyze. You may assume that input is always correct and input files are passed properly.
